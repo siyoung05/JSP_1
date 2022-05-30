@@ -25,7 +25,8 @@
 #### ● float을 left로 지정. 크기, 배경색, 텍스트 조정해줌.
 
 ## 📑 코드 부분
-![nav](https://user-images.githubusercontent.com/93521099/170622202-c3dac1a1-4eaf-4240-a5bc-1426aa609a6a.PNG) ![nav2](https://user-images.githubusercontent.com/93521099/170622216-c6f9a963-8739-4e58-b76e-54ee3c47c474.PNG)
+![nav](https://user-images.githubusercontent.com/93521099/170622202-c3dac1a1-4eaf-4240-a5bc-1426aa609a6a.PNG) ![nav](https://user-images.githubusercontent.com/93521099/170901385-7294db3b-7487-45c9-921d-c1497d7ed963.PNG)
+
 ## 출력 화면
 ![nav출력](https://user-images.githubusercontent.com/93521099/170623038-f5fc4945-caf6-42d5-9134-a59374b0b00f.PNG)
 
